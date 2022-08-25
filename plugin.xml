@@ -75,7 +75,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                 <source url="https://cdn.cocoapods.org/" />
             </config>
             <pods use-frameworks="true">
-                <pod name="Firebase/DynamicLinks" spec="$IOS_FIREBASE_POD_VERSION" />
+                <pod name="Firebase/DynamicLinks" spec="8.11.0" />
             </pods>
         </podspec>
     </platform>
